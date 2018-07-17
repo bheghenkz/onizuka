@@ -11,19 +11,19 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/muhmursalind/HelloWorld
-$ cd HelloWorld
+$ git clone https://github.com/bheghenkz/onizuka
+$ cd onizuka
 $ python -m pip install -r requirements.txt
-$ python helloworld.py
+$ python onizuka.py
 ```
 
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/muhmursalind/HelloWorld
+$ git clone https://github.com/bheghenkz/onizuka
 $ cd HelloWorld
 $ python3 -m pip install -r requirements.txt
-$ python3 helloworld.py
+$ python3 onizuka.py
 ```
 
 ## Attention
